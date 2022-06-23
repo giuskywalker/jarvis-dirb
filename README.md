@@ -3,7 +3,7 @@ Directory bruteforce tool written in python.
 
 To install all dependencies required to run the code: ```pip install -r requirements.txt ```
 
-Usage: jarvis-dirb.py [URL] [PATH-TO-WORDLIST] [EXTENSIONS]
+Usage: ```jarvis-dirb.py [URL] [PATH-TO-WORDLIST] [EXTENSIONS]```
 
 Example: ```jarvis-dirb.py http://scanme.nmap.org /usr/share/wordlists/directory-list-2.3-medium.txt php,js,php5```
 
